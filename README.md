@@ -1,2 +1,5 @@
 # Spring_Boot_MVC
-Proyecto de spring boot desarrollado con hibernate, JWT, API Rest
+Aplicacion web (Dashboard) desarrollado con spring boot, hibernate, JWT, API Rest y JavaScript.
+
+
+![Captura](imgs/img1.jpg)
