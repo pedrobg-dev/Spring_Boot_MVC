@@ -26,7 +26,7 @@ async function cargarUsuarios() {
 
         let usuarioHtml = `<tr>
                         <td>${usuario.id}</td>
-                        <td>${usuario.nombre} ${usuario.nombre}</td>
+                        <td>${usuario.nombre} ${usuario.apellido}</td>
                         <td>${usuario.email}</td>
                         <td>${usuario.telefono}</td>
                         <td>
